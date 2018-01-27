@@ -1,12 +1,10 @@
-#响应式博客制作
+#响应式博客
 
-#制作过程
+##制作过程
 
 1.新建一个repo
+2.新建一个index.html
 
-2.新建index.html
+##如何浏览
 
-
-#如何预览
-
-点击 https://webkitms.github.io/blog2017/，即可
+点击 https://webkitms.github.io/blog2017/ ，即可
